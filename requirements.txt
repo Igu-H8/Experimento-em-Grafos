@@ -1,9 +1,7 @@
 osmnx==2.0.6
 networkx==3.5
-matplotlib==3.10.7
-seaborn==0.13.2
 pandas==2.3.3
 numpy==2.3.4
-tqdm==4.67.1
-geopandas==1.1.1
-scikit-learn==1.7.2
+scipy==2.3.4
+
+# matplotlib==3.10.7
