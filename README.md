@@ -1,7 +1,7 @@
 # Experimento-em-Grafos
 Busca Bidirecional vs. Unidirecional em Rotas Urbanas
 
-[arquivo descrevendo o projeto]
+Informações do projeto está no pdf "experimento em grafos.pdf"
 
 ### Para que o projeto rode em qualquer máquina:
 
@@ -25,3 +25,7 @@ Busca Bidirecional vs. Unidirecional em Rotas Urbanas
 ##### Executar o Script:
 
         python main.py
+
+##### Conclusão
+
+Na a pasta "dados", haverá os arquivos de desempenho do projeto, grafico e grafos, baseado no desempenho da sua maquina, verifique o pdf do projeto para saber mais detalhes. 
